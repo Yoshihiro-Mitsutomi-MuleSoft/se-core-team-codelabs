@@ -1,0 +1,13 @@
+{
+  "title": "MuleSoft API-led Connectivity Workshop",
+  "description": "In this workshop, we will look at using the Anypoint Platform to incrementally deliver the application network through API Led Connectivity. We will learn how to design and implement APIs that a mobile application will use for submitting orders and checking order status, which underneath the covers, will connect to and orchestrate a variety of enterprise systems including legacy order processing databases, ERP applications, messaging queues, SaaS and cloud applications.",
+  "tags": [],
+  "categories": ["ABC"],
+  "exclude": [
+    "^lang-.*"
+  ],
+  "logoUrl": "/images/logo.png",
+  "toolbarBgColor": "#37474F",
+  "sort": "mainCategory",
+  "pins": []
+}

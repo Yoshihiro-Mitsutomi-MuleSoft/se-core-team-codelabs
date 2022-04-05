@@ -1,0 +1,13 @@
+{
+  "title": "MuleSoft SE Core Specialist Team Code Labs",
+  "description": "A collection of guided labs presented by MuleSoft SE Core Specialist team",
+  "tags": [],
+  "categories": [],
+  "exclude": [
+    "^lang-.*"
+  ],
+  "logoUrl": "/images/logo.png",
+  "toolbarBgColor": "#37474F",
+  "sort": "mainCategory",
+  "pins": []
+}
